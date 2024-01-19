@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  border: black solid 2px;
+  padding: 45px 50px;
+  background-color:#7B96A1;
+  margin: 0 auto;
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+}
+h1{
+  text-align: left !important;
+  font-size: 42px;
+}
+h2{
+  font-size: 42px;
+}
+#submitbtn{
+  padding:10px;
+  background:#282c34;
+  cursor:pointer;
+  border-radius:50px;
+}
+#city-input{
+  padding: 10px 5px 10px 100px;
+}
+
